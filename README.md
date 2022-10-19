@@ -6,7 +6,7 @@
 - 🧐 I’m looking for help with Learning new Technologies
 - 🙋‍♂️ Ask me about : Java , Spring boot , React , Js
  
-<img src="https://img.icons8.com/color/80/000000/spring-logo.png"/> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/80/000000/flutter.png"/>  <img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo--v2.png"/>  <img src="https://img.icons8.com/plasticine/80/000000/react.png"/>
+<img src="https://img.icons8.com/color/80/000000/spring-logo.png"/> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo--v2.png"/>  <img src="https://img.icons8.com/plasticine/80/000000/react.png"/>
 
 - ⚡ Daily Route: 
   ***while(life.status != died){
