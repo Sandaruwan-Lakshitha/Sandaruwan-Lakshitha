@@ -18,8 +18,8 @@
 
 ### Profile Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=zizy97&&show_icons=true&title_color=000046&icon_color=23074d&text_color=0F2027&bg_color=E94057">
+<img src="https://github-readme-stats.vercel.app/api?usernameSandaruwan-Lakshitha&&show_icons=true&title_color=000046&icon_color=23074d&text_color=0F2027&bg_color=E94057">
 
 ### Visitors Count
 
-<img align="left" src = "https://profile-counter.glitch.me/zizy97/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/Sandaruwan-Lakshitha/count.svg" alt ="Loading">
